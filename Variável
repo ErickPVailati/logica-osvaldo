@@ -1,0 +1,16 @@
+Endereço: endereco = Rua das Flores, 123, Bairro Alegre, Rodeio, SC
+Telefone: telefone = (47) 1234-5678
+Salário: salario = 3500.00
+CPF: cpf = 123.456.789-00
+Preço: preco = 25.99
+Temperatura: temperatura = 28.5
+Estado Civil: casado = False
+Data de Nascimento: nascimento = 10/05/1985
+Vacinado: vacinado = True
+Preço da Gasolina: preco_gasolina = 5.79
+Litros de Gasolina: litros_gasolina = 30.0
+Preço do Pão: preco_pao = 3.49
+Total de Compras: total_compras = 120.50
+Idade: idade = 39
+Data de Contrato: data_contrato = 01/02/2022
+Nível de Escolaridade: nivel_escolaridade = Ensino Superior Completo
